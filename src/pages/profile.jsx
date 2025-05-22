@@ -1,4 +1,4 @@
-import Banner from "../../public/Hero_banner.jpg";
+import Banner from "@/assets/Hero_banner.jpg";
 import Image from "next/image";
 
 export default function Profile() {

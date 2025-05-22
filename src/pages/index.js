@@ -1,9 +1,9 @@
 import Image from "next/image";
-import Banner from "../../public/Hero_banner.jpg";
-import prestasi_1 from "../../public/prestasi_1.jpg";
-import prestasi_2 from "../../public/prestasi_2.jpg";
-import prestasi_3 from "../../public/prestasi_3.jpg";
-import prestasi_4 from "../../public/prestasi_4.jpg";
+import Banner from "@/assets/Hero_banner.jpg";
+import prestasi_1 from "@/assets/Prestasi_1.jpg";
+import prestasi_2 from "@/assets/Prestasi_2.jpg";
+import prestasi_3 from "@/assets/Prestasi_3.jpg";
+import prestasi_4 from "@/assets/Prestasi_4.jpg";
 
 import Link from "next/link";
 
